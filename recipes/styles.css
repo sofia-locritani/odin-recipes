@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color: white;
+}
+h1,
+div {
+    text-align: center;
+}
+
+h1,
+h3 {
+    background-color: rgba(151, 97, 97, 0.445);
+}
